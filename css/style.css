@@ -1,0 +1,101 @@
+/*---------- NAVBAR ------------*/
+.navbar {
+	color: white;
+	height: 75px;
+	background-color: black;
+	opacity: 0.8;
+}
+.navbar ul li a {
+	color: white !important;
+	font-size: 15px;
+	 
+}
+.navbar a:hover {
+	color: white!important;
+	background-color: #d9534f;
+	border: inset !important 1px;
+	border-radius: 2px;
+	border-bottom: 1px;
+	border-bottom:solid;
+	position: relative;
+	border-bottom: fixed;
+	font-size: 15px;
+	font-kerning: 2px;
+}
+.navbar li {
+	margin-right: 15px;
+	text-transform: uppercase;
+}
+.navbar ul{
+	margin-left: 490px;
+}
+/*-------------- Footer -------------*/
+.footer {
+  padding: 2.5rem 0;
+  color: #999;
+  text-align: center;
+  background-color:rgba(0, 0, 0, 0.9);
+  border-top: .05rem solid #e5e5e5;
+  width: 100%;
+  border-style: solid 3px;
+  border-radius: 3px;
+}
+.footer p{
+  margin-bottom: 0;
+}
+.footer ul{
+  text-align: center;
+}
+.footer h4{
+  margin-left: 35px;
+}
+.footer p a{
+	;
+}
+.footer .newsletter {
+	padding-top: 10px;
+	margin-left: 50px;
+}
+.footer input {
+	width: 200px;
+	margin-left: 20px;
+}
+.footer .btn {
+	margin-top: -95px;
+	margin-left: 230px;
+}
+
+.footer .facebook:hover {
+	opacity: 1;
+	color: #3b5998 !important;
+}
+.footer .facebook {
+	opacity: 1;
+	margin-left: 40px;
+}
+.footer .twitter:hover {
+	opacity: 1;
+	color: #1DA1F2;
+}
+.footer .twitter {
+	opacity: 0.8;
+	margin-left: 20px;
+}
+
+.footer .pinterest {
+	opacity: 0.8;
+	margin-left: 20px;
+}
+.footer .pinterest:hover {
+	opacity: 1;
+	color: #BD081C;
+}
+
+.footer .linkedin:hover {
+	opacity: 1;
+	color: #0077B5;
+}
+.footer .linkedin {
+	opacity: 0.8;
+	margin-left: 20px;
+}
